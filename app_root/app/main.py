@@ -9,8 +9,17 @@ from fastapi import HTTPException
 import traceback
 
 app = FastAPI(title="Smart Librarian (FastAPI)")
+print(settings.OPENAI_API_KEY)
 _client = OpenAI(api_key=settings.OPENAI_API_KEY)
 
+try:
+    # Option 1: List available models (safe, low-cost)
+    models = _client.models.list()
+    print("✅ API Key is valid. Found models like:", [m.id for m in models.data[:3]])
+except Exception as e:
+    print("❌ OpenAI API key test failed:")
+    print(e)
+    raise RuntimeError("🛑 Invalid or missing OpenAI API key. Check .env or settings.")
 class RecommendRequest(BaseModel):
     query: str
     k: int = 3
