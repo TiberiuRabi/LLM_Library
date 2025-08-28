@@ -1,0 +1,62 @@
+[
+{
+"title": "1984",
+"short_summary": "Distopie despre supraveghere totală, rescrierea adevărului și controlul minții.",
+"themes": ["libertate", "control social", "totalitarism"],
+"full_summary": "Romanul urmărește pe Winston Smith într-o societate opresivă condusă de Partid și Big Brother, unde limbajul și istoria sunt manipulate pentru a distruge libera gândire."
+},
+{
+"title": "Brave New World",
+"short_summary": "Societate hedonistă stabilă prin condiționare genetică și soma.",
+"themes": ["fericire artificială", "condiționare", "liber arbitru"],
+"full_summary": "Huxley imaginează o lume în care ordinea este menținută prin inginerie socială, consum și droguri care suprimă suferința, punând întrebări despre umanitate și sens."
+},
+{
+"title": "Fahrenheit 451",
+"short_summary": "Cenzură extremă: pompierii ard cărți; un om se trezește.",
+"themes": ["cenzură", "libertate de exprimare", "mass-media"],
+"full_summary": "Guy Montag, pompier care arde cărți, ajunge să le protejeze după ce descoperă puterea ideilor și goliciunea divertismentului superficial."
+},
+{
+"title": "The Hobbit",
+"short_summary": "O aventură clasică spre Comoara Dragonului Smaug.",
+"themes": ["curaj", "prietenie", "eroism"],
+"full_summary": "Bilbo Baggins pornește fără voie într-o aventură cu piticii către Erebor, se maturizează și descoperă ingeniozitate, curaj și semnificația căminului."
+},
+{
+"title": "To Kill a Mockingbird",
+"short_summary": "Copilărie în Sudul american și un proces de rasism nedrept.",
+"themes": ["justiție", "empatie", "rasism"],
+"full_summary": "Scout Finch îl vede pe tatăl ei, Atticus, apărând un bărbat de culoare acuzat pe nedrept, învățând despre moralitate, prejudecăți și curaj civic."
+},
+{
+"title": "Pride and Prejudice",
+"short_summary": "Dragoste, statut social și prejudecăți într-o comedie de moravuri.",
+"themes": ["dragoste", "clasă socială", "familie"],
+"full_summary": "Elizabeth Bennet și Mr. Darcy învață să-și depășească mândria și prejudecățile, într-o radiografie a societății engleze de epocă."
+},
+{
+"title": "The Catcher in the Rye",
+"short_summary": "Un adolescent rătăcește prin New York căutând autenticitate.",
+"themes": ["alienare", "maturizare", "identitate"],
+"full_summary": "Holden Caulfield își petrece câteva zile în derivă, confruntându-se cu ipocrizia lumii adulte și propria vulnerabilitate."
+},
+{
+"title": "The Great Gatsby",
+"short_summary": "Visul American, pasiune și decădere în anii '20.",
+"themes": ["ambiție", "iluzie", "clasă"],
+"full_summary": "Gatsby își urmărește cu obsesie iubirea pentru Daisy, într-o lume strălucitoare dar goală, unde banii nu aduc împlinirea."
+},
+{
+"title": "Moby-Dick",
+"short_summary": "Căpitanul Ahab vânează obsesiv balena albă.",
+"themes": ["obsesie", "soartă", "natură"],
+"full_summary": "Epopeea unei urmăriri pe mare care devine meditație asupra destinului, cunoașterii și limitelor umane."
+},
+{
+"title": "The Alchemist",
+"short_summary": "O călătorie inițiatică spre împlinirea Legendei Personale.",
+"themes": ["auto-descoperire", "destin", "spiritualitate"],
+"full_summary": "Santiago pornește din Spania către deșert în căutarea unei comori, descoperind că adevărata comoară este transformarea interioară."
+}
+]
